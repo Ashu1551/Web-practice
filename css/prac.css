@@ -1,0 +1,19 @@
+/* Question one */
+#box{
+    background-color: blue;
+}
+
+/* Question two */
+
+/* .heading{
+    color: red;
+} */
+h1,h2,h3{
+    color: red;
+}
+
+/* Question three */
+
+button{
+    background-color: green;
+}

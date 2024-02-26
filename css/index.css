@@ -1,0 +1,42 @@
+/* h1{
+    color: red;
+} */
+/* h1{
+    color: rgb(255, 100, 0);
+}
+p{
+    color: violet;
+}
+button{
+    background-color:green;
+    color:white;
+}
+body{
+    background-color: pink;
+} */
+
+/* universel selectors */
+
+*{
+    color: green;
+}
+
+/* element selector */
+h1{
+    color: red;
+}
+
+/* id selectors */
+
+/* #a{
+    color: blue;
+}
+#b{
+    color: chartreuse;
+} */
+
+/* class selector */
+
+.one{
+    color: chocolate;
+}
